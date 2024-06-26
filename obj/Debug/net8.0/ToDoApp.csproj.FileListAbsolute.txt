@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\bin\Debug\net8.0\ToDoApp.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\bin\Debug\net8.0\ToDoApp.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\bin\Debug\net8.0\ToDoApp.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\bin\Debug\net8.0\ToDoApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\bin\Debug\net8.0\ToDoApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\obj\Debug\net8.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\obj\Debug\net8.0\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\obj\Debug\net8.0\ToDoApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\obj\Debug\net8.0\refint\ToDoApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\obj\Debug\net8.0\ToDoApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\obj\Debug\net8.0\ToDoApp.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos\ToDoApp\obj\Debug\net8.0\ref\ToDoApp.dll
